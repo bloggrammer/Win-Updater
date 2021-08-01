@@ -18,6 +18,7 @@ This awesome updater supports:
 
 2. Implement the `IWinUpdatable` and `IContext`
  
+ ```c#
         public interface IWinUpdatable
         {
             /// <summary>
@@ -46,11 +47,11 @@ This awesome updater supports:
             /// </summary>
             IContext Context { get; }
         }
-    
+   ``` 
     ![Win Updater](img/implementation.PNG)
     
 3. Create a the application meta data in xml  named "update.xml" 
-			
+	```xml
 		<?xml version="1.0"?>
         <winUpdate>
            <update appId="DemoApp">
@@ -62,7 +63,7 @@ This awesome updater supports:
              <launchArgs></launchArgs>
            </update>
         </winUpdate>
-
+```
 > NB: The MD5 hash is used to ensure the integrity of the exe file that
 > is uploaded to the server. The updater watches out for changes in
 > version number. If the server exe file version number is higher than
