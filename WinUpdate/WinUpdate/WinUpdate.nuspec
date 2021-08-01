@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Win-Updater</id>
+    <version>1.0.1</version>
+    <title>Windows Updater</title>
+    <authors>John Ansa</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/Blogrammer/Win-Updater</projectUrl>
+    <description>A C# library to automatically update any .NET application from the server.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright © John Ansa. 2021</copyright>
+    <tags>updater windows console wpf winform C# auto-updater automatic updates CI/CD deployment</tags>
+  </metadata>
+</package>
