@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/github/license/Blogrammer/Win-Updater?logo=github) [![NuGet](https://img.shields.io/nuget/v/Win-Updater)](https://www.nuget.org/packages/Win-Updater/)
 
 # Windows Auto Updater
 
