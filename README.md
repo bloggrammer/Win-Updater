@@ -48,7 +48,9 @@ This awesome updater supports:
             IContext Context { get; }
         }
    ``` 
-    ![Win Updater](img/implementation.PNG)
+   
+
+![Win Updater](img/implementation.PNG)
     
 3. Create a the application meta data in xml  named "update.xml" 
 	```xml
@@ -63,7 +65,7 @@ This awesome updater supports:
              <launchArgs></launchArgs>
            </update>
         </winUpdate>
-```
+
 > NB: The MD5 hash is used to ensure the integrity of the exe file that
 > is uploaded to the server. The updater watches out for changes in
 > version number. If the server exe file version number is higher than
