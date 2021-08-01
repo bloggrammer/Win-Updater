@@ -77,3 +77,6 @@ This awesome updater supports:
  ![Win Updater](img/update-version.PNG)
  5. Upload the updated exe file and the update.xml file to the server. https://bloggrammer.com/update.xml
  6. Run the demo application and click "Check for updates"
+
+#### Acknowledgment
+I would love to acknowledge (a.k.a BetterCoder) whose [YouTube video series](https://www.youtube.com/watch?v=325Uxy5nVI0) helped in putting this together.
