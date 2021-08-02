@@ -79,4 +79,4 @@ This awesome updater supports:
  6. Run the demo application and click "Check for updates"
 
 #### Acknowledgment
-I would love to acknowledge (a.k.a BetterCoder) whose [YouTube video series](https://www.youtube.com/watch?v=325Uxy5nVI0) helped in putting this together.
+I would love to acknowledge Dan (a.k.a BetterCoder) whose [YouTube video series](https://www.youtube.com/watch?v=325Uxy5nVI0) helped in putting this together.
