@@ -95,7 +95,7 @@ namespace DemoApp
     
 3. Create a the application meta data in xml  named "update.xml" 
 	```xml
-		<?xml version="1.0"?>
+	    <?xml version="1.0"?>
         <winUpdate>
            <update appId="DemoApp">
              <version>1.0.2.</version>         
