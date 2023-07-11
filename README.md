@@ -1,5 +1,11 @@
 ![GitHub](https://img.shields.io/github/license/Blogrammer/Win-Updater?logo=github) [![NuGet](https://img.shields.io/nuget/v/Win-Updater)](https://www.nuget.org/packages/Win-Updater/) ![Nuget](https://img.shields.io/nuget/dt/Win-Updater?logo=nuget)
 
+# ⛔ DEPRECATED
+
+This repo is now Deprecated and only under maintenance mode. No further work will be done unless it's pretty serious (bad flaw, etc).
+
+[AutoUpdater.NET](https://github.com/ravibpatel/AutoUpdater.NET) has superseded this repo with their (more features) solution.
+
 # Windows Auto Updater
 
 A C# library that will allow you to automatically update any .NET application from the server.  
